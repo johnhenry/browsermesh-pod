@@ -30,5 +30,8 @@
   },
   "peerDependencies": {
     "browsermesh-primitives": ">=0.1.0"
+  },
+  "devDependencies": {
+    "browsermesh-primitives": "^0.1.0"
   }
 }
